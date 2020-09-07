@@ -1,2 +1,1 @@
-echo "hi\n"
-echo $DESTINATION
+echo $DESTINATION > /tmp/11.txt
